@@ -1,0 +1,30 @@
+/mnt/c/Users/eleni/Documents/GitHub/ros-docker-examples/ArduinoOutput/sketch/hello_world.ino.cpp.o: \
+ /mnt/c/Users/eleni/Documents/GitHub/ros-docker-examples/ArduinoOutput/sketch/hello_world.ino.cpp \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/binary.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/WString.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/Stream.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/Print.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/Printable.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/variants/standard/pins_arduino.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ros.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ros/node_handle.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/std_msgs/Time.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ros/msg.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ros/time.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ros/duration.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/rosserial_msgs/TopicInfo.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/rosserial_msgs/Log.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/rosserial_msgs/RequestParam.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ros/publisher.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ros/node_handle.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ros/subscriber.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ros/service_server.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ros/service_client.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/ArduinoHardware.h \
+ /home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ /home/eleniv3d/arduino-1.8.19/libraries/ros_lib/std_msgs/String.h

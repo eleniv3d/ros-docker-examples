@@ -1,0 +1,32 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/eleniv3d/arduino-1.8.19/hardware/arduino/avr/variants/standard"
+  },
+  {
+    "Sourcefile": "/mnt/c/Users/eleni/Documents/GitHub/ros-docker-examples/ArduinoOutput/sketch/hello_world.ino.cpp",
+    "Include": "ros.h",
+    "Includepath": "/home/eleniv3d/arduino-1.8.19/libraries/ros_lib"
+  },
+  {
+    "Sourcefile": "/mnt/c/Users/eleni/Documents/GitHub/ros-docker-examples/ArduinoOutput/sketch/hello_world.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/eleniv3d/arduino-1.8.19/libraries/ros_lib/duration.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/eleniv3d/arduino-1.8.19/libraries/ros_lib/time.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
