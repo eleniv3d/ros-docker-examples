@@ -2,5 +2,10 @@
     "port": "/dev/ttyACM0",
     "board": "arduino:avr:uno",
     "sketch": "hello_world/hello_world.ino",
-    "output": "../ArduinoOutput"
+    "output": "../ArduinoOutput",
+    "programmer": "arduino:avrispmkii",
+
+    "includePath": [
+        "home/eleniv3d/arduino-1.8.19/libraries"
+    ]
 }
